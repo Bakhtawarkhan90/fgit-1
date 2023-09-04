@@ -1,3 +1,3 @@
 # git-1
-This is my git repository <br>
+This is my first git repository <br>
 Author - bakhtawar
