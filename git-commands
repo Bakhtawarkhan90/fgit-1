@@ -1,0 +1,38 @@
+# Git Cheat Sheet
+
+## Configuration
+git config --global user.name Your Name
+git config --global user.email youremail@domain.com
+
+## Create Repository
+git init
+git clone https://github.com/username/repository.git
+
+## Make Changes
+git status
+git add <filename>
+git commit -m commit message
+git push origin <branch>
+
+## Branches
+git branch
+git checkout <branch>
+git merge <branch>
+
+## Update & Merge
+git pull
+git fetch
+git merge
+
+## Undo
+git reset
+git revert
+
+## History
+git log
+git blame <filename>
+
+## GitHub
+git remote add origin https://github.com/username/repository.git
+git push -u origin master
+
