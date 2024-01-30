@@ -1,2 +1,2 @@
 learning github from apna collage
-
+set origin main
